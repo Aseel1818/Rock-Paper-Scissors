@@ -14,5 +14,5 @@ This project is a simple implementation of the classic Rock, Paper, Scissors gam
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/rock-paper-scissors.git
+   git clone https://github.com/Aseel1818/Rock-Paper-Scissors.git
    cd rock-paper-scissors
