@@ -16,3 +16,9 @@ This project is a simple implementation of the classic Rock, Paper, Scissors gam
    ```bash
    git clone https://github.com/Aseel1818/Rock-Paper-Scissors.git
    cd rock-paper-scissors
+2. Run the game:
+
+   ```bash
+   python3 rps.py
+   
+   
