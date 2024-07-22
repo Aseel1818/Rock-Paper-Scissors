@@ -20,5 +20,3 @@ This project is a simple implementation of the classic Rock, Paper, Scissors gam
 
    ```bash
    python3 rps.py
-   
-   
